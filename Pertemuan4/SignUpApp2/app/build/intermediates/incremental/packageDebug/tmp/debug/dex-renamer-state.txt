@@ -1,0 +1,4 @@
+#Fri Oct 18 21:05:10 ICT 2019
+base.0=D\:\\Kuliah\\AndroidStudioProjects\\SignUpApp2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
